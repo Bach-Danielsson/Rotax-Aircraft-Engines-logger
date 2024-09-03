@@ -1,0 +1,1 @@
+An ide was born to be able to monitor the engines ower the canbus and by IOT adress the manufacture about any warings during operations. an small microprossessor was programmed to read the data from the engine. A ground test was executed and data was recorded.
